@@ -1,5 +1,5 @@
 - Hi, I’m @Absolute3
-- I’m interested in coding and esports related data analysis
+- I’m interested in coding and software development
 - I’m currently learning a lot
 - You can reach out to me on github!
 
